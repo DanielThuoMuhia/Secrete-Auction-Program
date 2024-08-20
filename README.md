@@ -18,7 +18,7 @@ This Python application allows users to participate in a bidding process. It col
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/YourGitHubUsername/YourRepositoryName.git
+    git clone https://github.com/DanielThuoMuhia/Secrete-Auction-Program.git
     ```
 
 2. **Navigate to the Project Directory**:
